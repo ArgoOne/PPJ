@@ -1,2 +1,2 @@
 # PPJ
-Test
+Projekty przedmiot PPJ PW
