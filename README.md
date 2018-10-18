@@ -1,2 +1,2 @@
-# PPJ
+# JAVA
 Projekty przedmiot PPJ PW
