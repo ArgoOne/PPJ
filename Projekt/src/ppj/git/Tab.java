@@ -1,10 +1,8 @@
 package ppj.git;
+public class Tab{
+	
+  public static void main(String[] args){
 
-public class Main {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.println("Witam serdecznie");
-	}
-
+			  System.out.println("Pierwszy projekt w GitHub");
+  }
 }
